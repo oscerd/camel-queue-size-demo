@@ -1,0 +1,4 @@
+## Seda Camel Route for demo
+
+mvn clean compile exec:java to run
+
